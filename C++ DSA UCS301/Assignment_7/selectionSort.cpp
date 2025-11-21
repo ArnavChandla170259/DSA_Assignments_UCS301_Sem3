@@ -11,9 +11,7 @@ void selectionSort(int arr[], int n){
 		}
 		swap(arr[i],arr[minIndex]);
 	}
-	
 }
-
 int main(){
 	int arr[] = {11, 10, 8, 15,20};
 	int n =5;
