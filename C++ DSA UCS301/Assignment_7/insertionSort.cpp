@@ -13,7 +13,6 @@ void insertionSort(int arr[], int n){
 		arr[j+1] = key;
 	}
 }
-
 int main(){
 	int arr[] = {10,20,60,30,24};
 	int n = 5;
@@ -23,7 +22,6 @@ int main(){
 		cout << arr[i] << " ";
 	}
 	cout << endl;
-	
 	return 0;
 }
 /* Name - Arnav Chandla 
