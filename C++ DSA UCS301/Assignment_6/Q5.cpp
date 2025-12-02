@@ -78,7 +78,5 @@ int main()
 
     return 0;
 }
-/*
- * Name - Arnav Chandla
- * Roll No. - 1024170259
- */
+/* Name - Arnav Chandla
+ * Roll No. - 1024170259 */
