@@ -20,7 +20,7 @@ bool isBalncd(string expr)
             st.pop();
         }
     }
-    return st.empty();
+return st.empty();
 }
 int main() 
 {
